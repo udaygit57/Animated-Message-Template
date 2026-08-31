@@ -4,7 +4,7 @@ Description : A small animated web template for sending a heartfelt message. Bui
 
 Demo :-
 
-(https://udaygit57.github.io/demo-confession/)
+(https://udaygit57.github.io/Animated-Message-Template/)
 
 Usage
 1. Clone the repo
